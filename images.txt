@@ -1,3 +1,4 @@
 alpine
 luomubiji/2w:latest
 whyour/qinglong:latest
+yangxiao6/stupidocr:main
