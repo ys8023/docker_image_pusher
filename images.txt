@@ -3,3 +3,4 @@ luomubiji/2w:latest
 whyour/qinglong:latest
 yangxiao6/stupidocr:main
 o1si/miui-auto-tasks:latest
+xzxxn777/ddddocr:latest
